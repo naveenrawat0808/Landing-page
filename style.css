@@ -1,0 +1,448 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.mmm{
+    /* background-color: skyblue; */
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    gap: 50px;
+    background-color: rgba(255, 255, 255, 0.71);
+    position: fixed;
+    border-bottom: 1px;
+    /* position: absolute; */
+    /* margin-left: 10px; */
+    /* margin-top: 30px; */
+    /* width: 100%; */
+}
+.main{
+    /* height: 0px; */
+    /* width: 80px; */
+    color: #4dcfab;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-top: 15px;
+    margin-left: 10px;
+}
+
+nav,ul{
+    list-style: none;
+    display: flex;
+    gap: 35px;
+    font-family: sans-serif;
+    /* margin-left: 100px; */
+    
+}
+.bottn{
+    /* margin-left: 150px; */
+    background-color: #4dcfab;
+    border-radius: 10px;
+    width: 120px;
+    border-color: #4dcfab;
+    color: white;
+    border-style: solid;
+    font-size: 20px;
+}
+.maindis{
+    display: flex;
+    justify-content: center;
+}
+.main1{
+    height: 350px;
+    width: 85%;
+    margin-top: 70px;
+    background-color: #4dcfab;
+    border-radius: 20px; 
+    display: flex;
+    gap: 250px;
+    
+}
+.main2{
+    height: 150px;
+    width: 50%;
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 10px;
+    
+}
+
+.imgraf{
+    height: 260px;
+    width: 100%;
+    /* margin-left: 70px; */
+    margin-top: 40px;
+}
+.main3{
+    width: 100%;
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+    /* background-color: blue; */
+    gap: 80px;
+}
+.div1{
+    width: 30%;
+}
+.div2{
+    width: 30%;
+}
+.imgraf1{
+    height: 70%;
+    width: 100%;
+    margin-top: 20px;
+    /* margin-left: 150px; */
+    border-radius: 10px;
+
+}
+.imgraf2{
+    height: 70%;
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.price{
+    font-family: sans-serif;
+    font-size: 17px;
+}
+.booking{
+    height: 45px;
+    width: 120px;
+    border-radius: 10px;
+    background-color:#4dcfab ;
+    color: white;
+    border: 0px;
+    /* margin-top: 100px; */
+    border-color: #4dcfab;
+}
+.basement{
+    display: flex;
+    justify-content: center;
+}
+.basement3{
+    height: 350px;
+    width: 85%;
+    background-color: #4dcfab;
+    border-radius: 10px;
+    margin-top: 10px;
+    display: flex;
+    gap: 250px;
+
+}
+.basement2{
+    height: 150px;
+        width: 55%;
+        color: white;
+        font-size: 21px;
+        font-family: sans-serif;
+        margin-left: 50px;
+        margin-top: 10px;
+}
+.camp{
+    height: 260px;
+    width: 100%;
+    margin-top: 50px;
+}
+.macamp{
+    /* height: 50%; */
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    margin-top: 20px;
+    
+}
+.rain{
+    width: 30%;
+}
+.rain1{
+    width: 30%;
+}
+.imgcamp{
+    height: 70%;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 10px;
+
+}
+.imgcamp1{
+    height: 70%;
+    width: 100%;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+.rental1{
+    display: flex;
+        justify-content: center;
+}
+.rental2{
+    height: 360px;
+        width: 90%;
+        background-color: #4dcfab;
+        border-radius: 10px;
+        margin-top: 35px;
+        display: flex;
+        gap: 150px;
+}
+.rental3{
+height: 150px;
+    width: 55%;
+    color: white;
+    font-size: 21px;
+    font-family: sans-serif;
+    margin-left: 50px;
+    margin-top: 35px;
+}
+.scorent{
+    height: 260px;
+        width: 100%;
+        margin-top: 50px;
+}
+.pakage1{
+    display: flex;
+        justify-content: center;
+    
+
+}
+.pakage2{
+    height: 360px;
+        width: 95%;
+        /* background-color: #4dcfab; */
+        border-style: solid;
+        margin-top: 30px;
+        border-width: 1px;
+        border-color: rgba(0, 0, 0, 0.255);
+        border-radius: 10px;
+        display: flex;
+        gap: 150px;
+
+}
+.pakage3{
+    height: 150px;
+        width: 95%;
+        /* color: white; */
+        font-size: 20px;
+        font-family: sans-serif;
+
+        
+        /* margin-left: 50px; */
+        margin-top: 35px;
+}
+
+.holidays{
+    display: flex;
+    gap: 40px;
+    background-color: rgba(0, 0, 0, 0.847);
+    margin-top: 20px;
+}
+
+.holidays3{
+    width: 38.5%;
+    height: 400px;
+    margin-left: 20px;
+    /* margin-top: 50px; */
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+    /* background-color: rgba(0, 0, 0, 0.711)   ; */
+}
+.calling{
+    margin-top: 10px;
+}
+.location{
+    height: 300px;
+    width: 90%;
+}
+.whatsap{
+    height: 120px;
+    width: 60px;
+    background-color: rgba(99, 94, 94, 0.688);
+    position: fixed;
+    justify-content: center;
+    left: 0px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    margin-right: 10px;
+    top: 48%;
+
+}
+.whatsap2{
+    height: 40px;
+    width: 50px;
+    margin-top: 10px;
+    justify-content: center;
+}
+.mobile_main_div{
+    display: none;
+}
+.kuchvi{
+    display: none;
+}
+.mobile_raft{
+    display: none;
+}
+.again1{
+    display: none;
+}
+.again4{
+    display: none;
+}
+img {
+    object-fit: cover;
+}
+
+@media screen and (max-width:500px){
+    .maindis{
+        font-size: 16px;
+        display: none;
+    }
+    .mmm{
+        display: none;
+    }
+        .basement {
+            display: none;
+        }
+        .rental1{
+            display: none;
+        }
+    .kuchvi{
+        height: 70px;
+        align-items: center;
+        width: 100% !important;
+        /* background-color: red; */
+        display: flex;
+        justify-content: space-around;
+    }
+    .add{
+        height: 100%;
+        align-items: center;
+        display: flex;
+        color: #4dcfab;
+    }
+    .nnn{
+        border-radius: 5px;
+        height: 55%;
+        width: 30%;
+        color: white;
+        font-size: 20px;
+        background-color: #4dcfab;
+        border: 0px;
+        
+        border-color: #4dcfab;
+    }
+    .option{
+        align-items: center;
+        height: 100%;
+        display: flex;
+    }
+    .again1{
+        display: flex;
+        justify-content: center;
+        margin-top: 10px;
+    }
+    .again2{
+        height: 50%;
+        width: 95%;
+        border-style: solid;
+        border-top-left-radius: 10px;
+        border-top-right-radius: 10px;
+        background-color: #4dcfab;
+        color: white;
+    }
+    .again3{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        font-family: sans-serif;
+    }
+    .again3 p{
+        text-align: center;
+        width: 90%;
+        
+    }
+    .again4{
+        display: flex;
+        justify-content: center;
+    }
+    .again5{
+        border:1px solid #4dcfab;
+        height: 50px;
+        font-family: sans-serif;
+        color: #4dcfab;
+        border-bottom-right-radius: 10px;
+        border-bottom-left-radius: 10px;
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: calc(95% - 2px);
+        border-top: 0;
+        
+    }
+    .mobile_raft{
+        height: 210px;
+        width: 70%;
+        margin-left: 60px;
+        display: block;
+    }
+    .curb{
+        border-radius: 10px;
+    }
+    .main3{
+        gap: 40px;
+    }
+    .div1{
+        height: 350px;
+        width: 150px;
+        
+    }
+    .div2{
+        height: 350px;
+        width: 150px;
+        
+    }
+    .price{
+        font-size: 14px;
+    }
+    .macamp{
+        gap: 40px;
+    }
+    .rain{
+        height: 350px;
+        width: 150px;
+    }
+    .rain1{
+        height: 350px;
+        width: 150px;
+    }
+    .s_div{
+        margin-top: 40px;
+    }
+        .pakage3{
+            height: 180px;
+            font-size: 14px;
+            text-align: center;
+        }
+        .pakage2{
+             height: 385px;
+        }
+
+        .pakage3 h1{
+            font-size: 14px;
+        }
+        .holidays{
+            flex-direction: column;
+            width: auto;
+            
+            
+        }
+        .holidays3{
+            height: 33.3%;
+            width: 95%;
+            /* display: flex; */
+        }
+        
+    
+}
